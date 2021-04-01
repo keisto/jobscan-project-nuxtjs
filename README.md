@@ -1,21 +1,21 @@
-# Nuxt.js Example
+# Take-home Project - Jobscan 👔
 
-This directory is a brief example of a [Nuxt.js](https://nuxtjs.org) app that can be deployed with Vercel and zero configuration.
+Visit Live: [http://job-board-keisto.vercel.app](http://job-board-keisto.vercel.app)
 
-## Deploy Your Own
+Frameworks: 
+- Nuxt 
+- TailwindCSS
 
-Deploy your own Nuxt.js project with Vercel.
+Getting Started:
+- Run: `npm install`
+- Run: `npm run dev`
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/nuxtjs)
+---
 
-_Live Example: https://nuxtjs.now-examples.now.sh_
-
-### How We Created This Example
-
-To get started with Nuxt.js deployed with Vercel, you can use the [Create-Nuxt-App CLI](https://www.npmjs.com/package/create-nuxt-app) to initialize the project:
-
-```shell
-$ npx create-nuxt-app my-app
-```
-
-> The only change made is to amend the output directory in `nuxt.config.js` to `"/public"`.
+### If I had more time...
+- Add state to keep data after page refresh
+- Add media queries for mobile responsiveness
+- Add `+` and `-` buttons for rating input
+- Add modal to display `alert` 
+- Add more `hover, focus, active` styles for better UI/UX
+- Add tests to ensure functionality
